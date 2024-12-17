@@ -1,6 +1,6 @@
 # ObsidianTNT
 
-## A c, cpp, asm Developer.
+**A c, cpp, asm Developer**
 
 ### Current Projects
 - A web-interface for managing NerdMiner_V2 nodes
